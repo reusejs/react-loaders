@@ -6,7 +6,7 @@
 [![Storybook][storybook-action-image]][storybook-action-url]
 [![NPM Publish][npm-publish-action-image]][npm-publish-action-url]
 
-# React Buttons
+# React Dropdowns
 
 View Storybook at: https://master--617258d6729860003a3d6e10.chromatic.com
 
@@ -39,7 +39,7 @@ Hit us on discord on `ideas` channel. Propose your ideas, we will blow our brain
 
 ### To existing components
 
-Right now we don't a lot of hard and fast rules. 
+Right now we don't a lot of hard and fast rules.
 
 Just follow: https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
 
@@ -53,27 +53,21 @@ Basically:
 
 Once your pull request is made, a release would be schedule which will push the library to npm to @reusejs org. You can't push to reusejs org.
 
- ## License
+## License
 
 react-button is freely distributable under the terms of the [MIT license][license-url].
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
-
 [npm-url]: https://npmjs.org/package/@reusejs/react-buttons
 [npm-version-image]: https://img.shields.io/npm/v/@reusejs/react-buttons.svg?style=flat
-
 [npm-downloads-image]: https://img.shields.io/npm/dm/@reusejs/react-buttons.svg?style=flat
 [npm-downloads-url]: https://npmcharts.com/compare/@reusejs/react-buttons?minimal=true
-
 [view-storybook-image]: https://img.shields.io/badge/View-Storybook-F59E0B.svg
 [view-storybook-url]: https://master--617258d6729860003a3d6e10.chromatic.com
-
 [join-discord-image]: https://img.shields.io/badge/Join-Discord-7389D8.svg
 [join-discord-url]: https://discord.gg/VUa9SHvvDb
-
 [storybook-action-image]: https://github.com/reusejs/react-buttons/actions/workflows/chromatic.yml/badge.svg
 [storybook-action-url]: https://github.com/reusejs/react-buttons/actions/workflows/chromatic.yml
-
 [npm-publish-action-image]: https://github.com/reusejs/react-buttons/actions/workflows/publish.yml/badge.svg
 [npm-publish-action-url]: https://github.com/reusejs/react-buttons/actions/workflows/publish.yml
