@@ -55,7 +55,7 @@ Once your pull request is made, a release would be schedule which will push the 
 
 ## License
 
-react-button is freely distributable under the terms of the [MIT license][license-url].
+react-dropdowns is freely distributable under the terms of the [MIT license][license-url].
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
