@@ -1,7 +1,6 @@
 import React, { Fragment } from "react";
 import "../tailwind.css";
 import { Menu, Transition } from "@headlessui/react";
-import { CheckCircleIcon } from "@heroicons/react/outline";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
