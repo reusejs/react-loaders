@@ -1,5 +1,5 @@
 {
-  "name": "@reusejs/react-dropdowns",
+  "name": "@reusejs/react-loaders",
   "version": "0.0.2",
   "description": "A library of reactjs dropdowns",
   "main": "build/index.js",
@@ -8,12 +8,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reusejs/react-dropdowns.git"
+    "url": "git+https://github.com/reusejs/react-loaders.git"
   },
   "bugs": {
-    "url": "https://github.com/reusejs/react-dropdowns/issues"
+    "url": "https://github.com/reusejs/react-loaders/issues"
   },
-  "homepage": "https://github.com/reusejs/react-dropdowns",
+  "homepage": "https://github.com/reusejs/react-loaders",
   "author": "Rajiv Seelam",
   "license": "MIT",
   "scripts": {

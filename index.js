@@ -1,3 +1,3 @@
-import DropdownMenu from "./src/DropdownMenu";
+import Loader from "./src/Loader";
 
-export { DropdownMenu };
+export { Loader };
