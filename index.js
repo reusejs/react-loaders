@@ -1,3 +1,3 @@
-import Loader from "./src/Loader";
+import Loader from "./src/CircularLoader";
 
 export { Loader };

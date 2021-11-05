@@ -27,9 +27,9 @@ There are two ways you can develop components.
 ### Another ReactJS App
 
 - Create a brand new react js app (Ex: my-app) using following: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
-- Run `yarn link` in current component library. Ex: If you component name is react-dropdowns, you would run yarn link inside react-dropdowns
-- Go to newly created reactjs app (my-app) and run `yarn link @reusejs/react-dropdowns`
-- At the same time also run `yarn serve` in react-dropdowns, so that as you make changes, build happens simultaneously and your my-app refreshes it
+- Run `yarn link` in current component library. Ex: If your component name is react-loaders, you would run yarn link inside react-loaders
+- Go to newly created reactjs app (my-app) and run `yarn link @reusejs/react-loaders`
+- At the same time also run `yarn serve` in react-loaders, so that as you make changes, build happens simultaneously and your my-app refreshes it
 
 ## Contributing
 
@@ -55,19 +55,19 @@ Once your pull request is made, a release would be schedule which will push the 
 
 ## License
 
-react-dropdowns is freely distributable under the terms of the [MIT license][license-url].
+react-loaders is freely distributable under the terms of the [MIT license][license-url].
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
-[npm-url]: https://npmjs.org/package/@reusejs/react-dropdowns
-[npm-version-image]: https://img.shields.io/npm/v/@reusejs/react-dropdowns.svg?style=flat
-[npm-downloads-image]: https://img.shields.io/npm/dm/@reusejs/react-dropdowns.svg?style=flat
-[npm-downloads-url]: https://npmcharts.com/compare/@reusejs/react-dropdowns?minimal=true
+[npm-url]: https://npmjs.org/package/@reusejs/react-loaders
+[npm-version-image]: https://img.shields.io/npm/v/@reusejs/react-loaders.svg?style=flat
+[npm-downloads-image]: https://img.shields.io/npm/dm/@reusejs/react-loaders.svg?style=flat
+[npm-downloads-url]: https://npmcharts.com/compare/@reusejs/react-loaders?minimal=true
 [view-storybook-image]: https://img.shields.io/badge/View-Storybook-F59E0B.svg
 [view-storybook-url]: https://master--61779893db11fb003aa86a2c.chromatic.com
 [join-discord-image]: https://img.shields.io/badge/Join-Discord-7389D8.svg
 [join-discord-url]: https://discord.gg/VUa9SHvvDb
-[storybook-action-image]: https://github.com/reusejs/react-dropdowns/actions/workflows/chromatic.yml/badge.svg
-[storybook-action-url]: https://github.com/reusejs/react-dropdowns/actions/workflows/chromatic.yml
-[npm-publish-action-image]: https://github.com/reusejs/react-dropdowns/actions/workflows/publish.yml/badge.svg
-[npm-publish-action-url]: https://github.com/reusejs/react-dropdowns/actions/workflows/publish.yml
+[storybook-action-image]: https://github.com/reusejs/react-loaders/actions/workflows/chromatic.yml/badge.svg
+[storybook-action-url]: https://github.com/reusejs/react-loaders/actions/workflows/chromatic.yml
+[npm-publish-action-image]: https://github.com/reusejs/react-loaders/actions/workflows/publish.yml/badge.svg
+[npm-publish-action-url]: https://github.com/reusejs/react-loaders/actions/workflows/publish.yml
