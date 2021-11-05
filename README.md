@@ -6,7 +6,7 @@
 [![Storybook][storybook-action-image]][storybook-action-url]
 [![NPM Publish][npm-publish-action-image]][npm-publish-action-url]
 
-# React Dropdowns
+# React Loaders
 
 View Storybook at: https://master--61779893db11fb003aa86a2c.chromatic.com
 
