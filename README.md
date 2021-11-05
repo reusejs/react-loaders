@@ -6,9 +6,9 @@
 [![Storybook][storybook-action-image]][storybook-action-url]
 [![NPM Publish][npm-publish-action-image]][npm-publish-action-url]
 
-# React Dropdowns
+# React Loaders
 
-View Storybook at: https://master--61779893db11fb003aa86a2c.chromatic.com
+View Storybook at: https://master--6184f216de17a7003a225cb6.chromatic.com
 
 ### Where to write components?
 
@@ -64,7 +64,7 @@ react-loaders is freely distributable under the terms of the [MIT license][licen
 [npm-downloads-image]: https://img.shields.io/npm/dm/@reusejs/react-loaders.svg?style=flat
 [npm-downloads-url]: https://npmcharts.com/compare/@reusejs/react-loaders?minimal=true
 [view-storybook-image]: https://img.shields.io/badge/View-Storybook-F59E0B.svg
-[view-storybook-url]: https://master--61779893db11fb003aa86a2c.chromatic.com
+[view-storybook-url]: https://master--6184f216de17a7003a225cb6.chromatic.com
 [join-discord-image]: https://img.shields.io/badge/Join-Discord-7389D8.svg
 [join-discord-url]: https://discord.gg/VUa9SHvvDb
 [storybook-action-image]: https://github.com/reusejs/react-loaders/actions/workflows/chromatic.yml/badge.svg
